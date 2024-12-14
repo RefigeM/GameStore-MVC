@@ -1,0 +1,14 @@
+﻿@model List<TrendingGames>
+@{
+    ViewData["Title"] = "ana sehife";
+}
+
+<h1>Index</h1>
+
+
+@foreach (var item in Model)
+{
+    <h1> @item.Id  - @item.Name</h1>
+
+
+}

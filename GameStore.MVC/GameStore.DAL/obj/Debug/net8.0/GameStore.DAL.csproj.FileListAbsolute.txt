@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.dll
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.dll
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\obj\Debug\net8.0\refint\GameStore.DAL.dll
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.pdb
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\GameStore.MVC\GameStore.DAL\obj\Debug\net8.0\ref\GameStore.DAL.dll
