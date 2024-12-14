@@ -7810,11 +7810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore.MVC\\GameStore.MVC\\GameStore.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\GameStore.MVC.csproj",
       "projectName": "GameStore.MVC",
-      "projectPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore.MVC\\GameStore.MVC\\GameStore.MVC.csproj",
+      "projectPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\GameStore.MVC.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore.MVC\\GameStore.MVC\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7836,11 +7836,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore.MVC\\GameStore.BL\\GameStore.BL.csproj": {
-              "projectPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore.MVC\\GameStore.BL\\GameStore.BL.csproj"
+            "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore-MVC\\GameStore.MVC\\GameStore.BL\\GameStore.BL.csproj": {
+              "projectPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore-MVC\\GameStore.MVC\\GameStore.BL\\GameStore.BL.csproj"
             },
-            "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore.MVC\\GameStore.DAL\\GameStore.DAL.csproj": {
-              "projectPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore.MVC\\GameStore.DAL\\GameStore.DAL.csproj"
+            "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore-MVC\\GameStore.MVC\\GameStore.DAL\\GameStore.DAL.csproj": {
+              "projectPath": "C:\\Users\\ACER\\OneDrive\\Masaüstü\\GameStore-MVC\\GameStore.MVC\\GameStore.DAL\\GameStore.DAL.csproj"
             }
           }
         }
