@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\wwwroot\\admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\wwwroot\\admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FCCF4-7D30-407C-BB88-C8616B5FC81F}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.bl\\services\\abstractions\\itrendinggamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0FCCF4-7D30-407C-BB88-C8616B5FC81F}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\services\\abstractions\\itrendinggamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,20 +75,12 @@
       "RelativeMoniker": "D:0:0:{E9908EC3-EB34-4B05-91AB-96E41C6FE8DA}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\contexts\\gamestoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F0FCCF4-7D30-407C-BB88-C8616B5FC81F}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.bl\\services\\abstractions\\itrendinggamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0FCCF4-7D30-407C-BB88-C8616B5FC81F}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\services\\abstractions\\itrendinggamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F0FCCF4-7D30-407C-BB88-C8616B5FC81F}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.bl\\services\\concretes\\trendinggamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F0FCCF4-7D30-407C-BB88-C8616B5FC81F}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\services\\concretes\\trendinggamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE61535F-882B-4452-87E5-8D7766A97A21}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\gamestore-mvc\\gamestore.mvc\\gamestore.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -102,63 +114,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 206,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T18:49:59.045Z",
+              "DocumentIndex": 4,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\wwwroot\\admin\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "GameStore.MVC\\wwwroot\\admin\\css\\sb-admin-2.css",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\wwwroot\\admin\\css\\sb-admin-2.css",
+              "RelativeToolTip": "GameStore.MVC\\wwwroot\\admin\\css\\sb-admin-2.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T09:26:34.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:57:24.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-14T18:55:55.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T18:49:08.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "GameStore.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:44:18.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GameStore.MVC\\Views\\Home\\Index.cshtml",
@@ -166,12 +165,11 @@
               "RelativeToolTip": "GameStore.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T14:44:58.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T14:44:58.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -179,85 +177,73 @@
               "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T18:56:13.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T18:56:13.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-14T18:56:27.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GameStore.MVC.csproj",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\GameStore.MVC.csproj",
-              "RelativeDocumentMoniker": "GameStore.MVC\\GameStore.MVC.csproj",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\GameStore.MVC.csproj",
-              "RelativeToolTip": "GameStore.MVC\\GameStore.MVC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-14T18:45:00.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "GameStore.MVC\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "GameStore.MVC\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-14T18:46:14.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Views\\ProductDetails\\Index.cshtml",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Views\\ProductDetails\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Views\\ProductDetails\\Index.cshtml",
-              "RelativeToolTip": "GameStore.MVC\\Views\\ProductDetails\\Index.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GameStore.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T18:02:32.754Z"
+              "WhenOpened": "2024-12-14T15:17:53.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Controllers\\ProductDetailsController.cs",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Controllers\\ProductDetailsController.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Controllers\\ProductDetailsController.cs",
-              "RelativeToolTip": "GameStore.MVC\\Controllers\\ProductDetailsController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GameStore.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T17:02:10.631Z"
+              "WhenOpened": "2024-12-14T14:44:18.416Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Program.cs",
-              "RelativeToolTip": "GameStore.MVC\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:26:34.481Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T18:49:59.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:58:43.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ITrendingGamesService.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.BL\\Services\\Abstractions\\ITrendingGamesService.cs",
               "RelativeDocumentMoniker": "GameStore.BL\\Services\\Abstractions\\ITrendingGamesService.cs",
@@ -269,7 +255,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:49:08.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameStore.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\GameStore.MVC.csproj",
+              "RelativeDocumentMoniker": "GameStore.MVC\\GameStore.MVC.csproj",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\GameStore.MVC.csproj",
+              "RelativeToolTip": "GameStore.MVC\\GameStore.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T18:45:00.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "GameStore.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "GameStore.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-14T18:46:14.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Views\\ProductDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Views\\ProductDetails\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Views\\ProductDetails\\Index.cshtml",
+              "RelativeToolTip": "GameStore.MVC\\Views\\ProductDetails\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T18:02:32.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Controllers\\ProductDetailsController.cs",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Controllers\\ProductDetailsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Controllers\\ProductDetailsController.cs",
+              "RelativeToolTip": "GameStore.MVC\\Controllers\\ProductDetailsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:02:10.631Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Program.cs",
+              "RelativeToolTip": "GameStore.MVC\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:26:34.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "GameStoreDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.DAL\\Contexts\\GameStoreDbContext.cs",
               "RelativeDocumentMoniker": "GameStore.DAL\\Contexts\\GameStoreDbContext.cs",
@@ -281,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "GameStore.MVC\\appsettings.json",
@@ -293,19 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "GameStore.MVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T15:17:53.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "TrendingGamesService.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.BL\\Services\\Concretes\\TrendingGamesService.cs",
               "RelativeDocumentMoniker": "GameStore.BL\\Services\\Concretes\\TrendingGamesService.cs",
@@ -317,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "GameStore.MVC\\Views\\_ViewStart.cshtml",
@@ -329,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "GameStore.BL.csproj",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.BL\\GameStore.BL.csproj",
               "RelativeDocumentMoniker": "GameStore.BL\\GameStore.BL.csproj",
@@ -341,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "20241214144234_TrendingGamesTable.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.DAL\\Migrations\\20241214144234_TrendingGamesTable.cs",
               "RelativeDocumentMoniker": "GameStore.DAL\\Migrations\\20241214144234_TrendingGamesTable.cs",
@@ -353,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "TrendingGames.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.DAL\\Models\\TrendingGames.cs",
               "RelativeDocumentMoniker": "GameStore.DAL\\Models\\TrendingGames.cs",
@@ -365,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.DAL\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "GameStore.DAL\\Models\\BaseEntity.cs",
@@ -377,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "20241214144055_Initial.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\GameStore-MVC\\GameStore.MVC\\GameStore.DAL\\Migrations\\20241214144055_Initial.cs",
               "RelativeDocumentMoniker": "GameStore.DAL\\Migrations\\20241214144055_Initial.cs",
